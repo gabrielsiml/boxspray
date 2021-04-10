@@ -1,0 +1,16 @@
+{
+  "name": "boxspray",
+  "version": "1.0.0",
+  "description": "p5js transparent squares with random location and randomized color",
+  "main": "sketch.js",
+  "scripts": {
+    "start": "serve",
+    "build": "echo This is a static template, there is no bundler or bundling involved!"
+  },
+  "keywords": [],
+  "author": "Danny Ruchtie",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
